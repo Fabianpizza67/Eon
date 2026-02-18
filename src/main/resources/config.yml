@@ -1,0 +1,6 @@
+database: # This plugin assumes you are using MariaDB as your database provider.
+  host: "192.168.*."  # Your database ip
+  port: "3306" # Your database port
+  name: "eon_db" # Your database name
+  user: "eon_db" # Your database user
+  password: "password" # Your database password
